@@ -1,1 +1,1 @@
-# Collatz-Problem-Solution-with-Fork
+# İşletim Sistemleri Dersi Collatz-Problem-Solution-with-Fork
